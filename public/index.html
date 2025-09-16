@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Secure File Share</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Secure File Sharing System</h1>
+
+    <!-- Upload Section -->
+    <section class="card">
+      <h2>Upload & Encrypt</h2>
+      <form id="uploadForm">
+        <input type="file" id="fileInput" required />
+        <button type="submit">Upload & Encrypt</button>
+      </form>
+      <p id="uploadResult"></p>
+    </section>
+
+    <!-- Decrypt Section -->
+    <section class="card">
+      <h2>Decrypt File</h2>
+      <input type="text" id="filename" placeholder="Enter encrypted filename" required />
+      <button onclick="decryptFile()">Decrypt & Download</button>
+      <p id="decryptResult"></p>
+    </section>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
