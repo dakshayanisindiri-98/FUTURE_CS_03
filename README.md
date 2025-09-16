@@ -95,37 +95,45 @@ http://localhost:5000
 
 ## 📸 Screenshots
 
-**Running server successfully**
+**-->1.Running server successfully**
 
 <img width="1596" height="678" alt="Runnin-server" src="https://github.com/user-attachments/assets/e60e351e-94da-4aa7-b589-958b718e8a49" />
 
-**Homepage UI**  
+
+**-->2.Homepage UI**  
 
 <img width="3200" height="2000" alt="Frontend-homePage" src="https://github.com/user-attachments/assets/b42bc677-867f-47ac-97f4-303607d9ce00" />
 
-**File Upload**
+
+**-->3.File Upload**
 
 <img width="3200" height="2000" alt="upload- -encrypt-file" src="https://github.com/user-attachments/assets/aeda04ee-1e3f-491f-a4ca-524f3a68b80a" />
 
-**Encrypted File Saved**
+
+**-->4.Encrypted File Saved**
 
 <img width="2106" height="934" alt="uploads-folder" src="https://github.com/user-attachments/assets/bf4e8536-66e1-4cc3-b72d-17be98406e11" />
 
-**File Decryption**
+
+**-->5.File Decryption**
 
 <img width="3200" height="2000" alt="decryption" src="https://github.com/user-attachments/assets/7a6de8cf-8b62-4482-a905-b312ed1f5fd7" />
 
-**Final Output**
+
+**-->6.Final Output**
 
 <img width="1366" height="688" alt="encryption-text" src="https://github.com/user-attachments/assets/07e66aae-0d45-47cd-8a64-8ffc54b6736d" />
 
+
 <img width="1702" height="496" alt="decrypted-message" src="https://github.com/user-attachments/assets/48fbc4b4-ac02-43cc-b50a-b05cb7e941d4" />
 
-**Backend Encryption Postman**
+
+**-->7.Backend Encryption Postman**
 
 <img width="3200" height="2000" alt="encryption-backend" src="https://github.com/user-attachments/assets/b2d72226-4647-4190-82be-fe424e05c084" />
 
-**Backend Decryption Postman**
+
+**-->8.Backend Decryption Postman**
 
 <img width="3200" height="1886" alt="decryption-backend" src="https://github.com/user-attachments/assets/060dec1a-10ec-45ca-98f2-bbdcffa3315f" />
 
