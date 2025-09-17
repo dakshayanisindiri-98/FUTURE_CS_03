@@ -38,10 +38,12 @@ secure-file-share/
 │   └── script.js
 │
 ├── uploads/               # Encrypted files 
-├── decrypted/             # Decrypted files 
+├── decrypted/             # Decrypted files
+├── screenshots
 ├── .env                    # Environment variables 
 ├── server.js               # Main backend server
-└── package.json
+├── package.json            # Dependencies & scripts
+├── package-lock.json       # Auto-generated dependency lock file
 
 ````
 
